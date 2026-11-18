@@ -1,4 +1,4 @@
-🧠 GenAI LLM Use Cases
+ GenAI LLM Use Cases
 This project demonstrates basic use cases of Generative AI using Large Language Models (LLMs), including:
 
 🔍 Text Summarization
@@ -7,7 +7,7 @@ This project demonstrates basic use cases of Generative AI using Large Language 
 
 📊 LLM Output Evaluation
 
-🚀 Features
+ Features
 1. Text Summarization
 Generate concise summaries from large blocks of text using pre-trained LLMs.
 
